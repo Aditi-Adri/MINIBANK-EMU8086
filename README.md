@@ -8,3 +8,6 @@ User Schemes – Student, Job Holder, and General User with different interest r
 Loan Eligibility – Users can check how much loan they can avail based on balance., Without paying the first loan amount , can't avail 2nd loan.
 Transaction History – Keeps track of deposits & withdrawals.
 User Feedback – Option to give a rating after using minibank.
+
+**By Aditi Roy Adri**  
+[Visit my Portfolio](https://aditi-adri.github.io/AditiRoyAdri/) | [GitHub Profile](https://github.com/aditi-adri)
